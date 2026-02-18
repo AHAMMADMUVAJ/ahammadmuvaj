@@ -26,5 +26,3 @@ Hi, I'm Ahammad Muvaj 👋<br>Data Analyst passionate about turning data into ac
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahammadmuvaj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
